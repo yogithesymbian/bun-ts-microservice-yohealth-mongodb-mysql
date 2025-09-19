@@ -1,5 +1,34 @@
 # 📖 bun-ts-microservices 
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/95f67ed2-9d4c-4a53-9737-9b8f58a3ab32">
+        <img src="https://github.com/user-attachments/assets/95f67ed2-9d4c-4a53-9737-9b8f58a3ab32" width="250"/>
+      </a>
+      <br/>
+      <sub>Prisma Generate</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/acb9e1c0-d138-4246-b413-35380d45f383">
+        <img src="https://github.com/user-attachments/assets/acb9e1c0-d138-4246-b413-35380d45f383" width="250"/>
+      </a>
+      <br/>
+      <sub>MySQL Tableplus</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/d934df4a-3281-4937-8af5-fe837032a8b5">
+        <img src="https://github.com/user-attachments/assets/d934df4a-3281-4937-8af5-fe837032a8b5" width="250"/>
+      </a>
+      <br/>
+      <sub>Prisma MongoDB</sub>
+    </td>
+  </tr>
+</table>
+
+
 ## 🚀 Overview
 
 Contoh project **Microservices dengan Bun + TypeScript** menggunakan:
